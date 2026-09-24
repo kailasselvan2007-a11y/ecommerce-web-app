@@ -1,0 +1,142 @@
+{
+  "users": [
+    {
+      "_id": "6ab55cdd066994074a5d38d9",
+      "name": "Store Administrator",
+      "email": "admin@shopease.com",
+      "password": "$2b$10$IAhVSfJ7YLMSlbL2OlfnX.ZmwvWFNaJHLo5LJLshB84TMbJZXONtO",
+      "role": "admin",
+      "createdAt": "2026-09-24T17:24:45.114Z"
+    },
+    {
+      "_id": "6ab55cdd066994074a5d38da",
+      "name": "Alex Johnson",
+      "email": "user@shopease.com",
+      "password": "$2b$10$NtfQnIDoWKDHdeAJjsGSUOK7DIAYAMI5aJutPLRStpyev1wUF5BX2",
+      "role": "user",
+      "createdAt": "2026-09-24T17:24:45.194Z"
+    }
+  ],
+  "products": [
+    {
+      "_id": "6ab55cdd066994074a5d38db",
+      "name": "AcousticPro Wireless Noise-Cancelling Headphones",
+      "description": "Studio-grade over-ear Bluetooth headphones with active hybrid noise cancellation, 40h battery life, plush memory foam earcups, and crystal-clear microphone audio.",
+      "price": 199.99,
+      "category": "Audio",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80",
+      "stock": 23,
+      "createdAt": "2026-09-24T17:24:45.194Z",
+      "updatedAt": "2026-09-24T17:25:08.718Z"
+    },
+    {
+      "_id": "6ab55cdd066994074a5d38dc",
+      "name": "Apex Precision Mechanical Keyboard",
+      "description": "Custom compact 75% mechanical keyboard with lubricated tactile switches, sound dampening silicone foam, hot-swappable sockets, and durable PBT keycaps.",
+      "price": 129.5,
+      "category": "Workspace",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&q=80",
+      "stock": 18,
+      "createdAt": "2026-09-24T17:24:45.194Z",
+      "updatedAt": "2026-09-24T17:24:45.194Z"
+    },
+    {
+      "_id": "6ab55cdd066994074a5d38dd",
+      "name": "Horizon Smart Fitness Watch 2",
+      "description": "Ultra-thin aerospace aluminum body with sapphire glass, 1.4-inch AMOLED display, SpO2 sensor, continuous heart rate tracking, and 7-day battery.",
+      "price": 159,
+      "category": "Wearables",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80",
+      "stock": 35,
+      "createdAt": "2026-09-24T17:24:45.194Z",
+      "updatedAt": "2026-09-24T17:24:45.194Z"
+    },
+    {
+      "_id": "6ab55cdd066994074a5d38de",
+      "name": "Nomad Commuter Weatherproof Backpack",
+      "description": "Minimalist 22L urban backpack crafted from water-repellent Cordura nylon, dedicated padded 16-inch laptop compartment, and ergonomic airflow back panel.",
+      "price": 89.95,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&q=80",
+      "stock": 40,
+      "createdAt": "2026-09-24T17:24:45.194Z",
+      "updatedAt": "2026-09-24T17:24:45.194Z"
+    },
+    {
+      "_id": "6ab55cdd066994074a5d38df",
+      "name": "Lumina Arc Studio Desk Lamp",
+      "description": "Architectural aluminum LED desk lamp featuring touch slider dimming, 5 color temperature presets, USB-C 15W fast pass-through charging, and glare-free asymmetric optical lens.",
+      "price": 74.99,
+      "category": "Workspace",
+      "image": "https://images.unsplash.com/photo-1534972195531-a756b1126f24?w=800&q=80",
+      "stock": 15,
+      "createdAt": "2026-09-24T17:24:45.194Z",
+      "updatedAt": "2026-09-24T17:24:45.194Z"
+    },
+    {
+      "_id": "6ab55cdd066994074a5d38e0",
+      "name": "PulseFlow True Wireless Earbuds",
+      "description": "Compact wireless earbuds with deep bass response, IPX5 water resistance, transparency mode, wireless charging case, and 32 hours total playtime.",
+      "price": 69.99,
+      "category": "Audio",
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&q=80",
+      "stock": 50,
+      "createdAt": "2026-09-24T17:24:45.194Z",
+      "updatedAt": "2026-09-24T17:24:45.194Z"
+    },
+    {
+      "_id": "6ab55cdd066994074a5d38e1",
+      "name": "Minimalist Leather Bi-Fold Wallet",
+      "description": "Handcrafted full-grain Italian leather wallet with RFID blocking layer, holds 8 cards and flat currency notes with an ultra-slim profile.",
+      "price": 45,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=800&q=80",
+      "stock": 30,
+      "createdAt": "2026-09-24T17:24:45.194Z",
+      "updatedAt": "2026-09-24T17:24:45.194Z"
+    },
+    {
+      "_id": "6ab55cdd066994074a5d38e2",
+      "name": "ErgoForm Walnut Monitor Stand",
+      "description": "Solid American walnut desktop riser supporting up to 45kg, elevates display to ergonomic eye-level with clearance for full-size keyboard storage underneath.",
+      "price": 64,
+      "category": "Workspace",
+      "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&q=80",
+      "stock": 12,
+      "createdAt": "2026-09-24T17:24:45.194Z",
+      "updatedAt": "2026-09-24T17:24:45.194Z"
+    }
+  ],
+  "orders": [
+    {
+      "_id": "6ab55cf4066994074a5d38e3",
+      "user": "6ab55cdd066994074a5d38da",
+      "userSnapshot": {
+        "name": "Alex Johnson",
+        "email": "user@shopease.com"
+      },
+      "products": [
+        {
+          "product": "6ab55cdd066994074a5d38db",
+          "name": "AcousticPro Wireless Headphones",
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80",
+          "price": 199.99,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 199.99,
+      "shippingAddress": {
+        "name": "Alex Johnson",
+        "email": "user@shopease.com",
+        "phone": "1234567890",
+        "address": "123 College St",
+        "city": "Boston",
+        "state": "MA",
+        "pincode": "02115"
+      },
+      "status": "Confirmed",
+      "createdAt": "2026-09-24T17:25:08.718Z",
+      "updatedAt": "2026-09-24T17:25:22.550Z"
+    }
+  ]
+}

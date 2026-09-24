@@ -1,0 +1,6 @@
+{
+  "name": "ShopEase - Modern E-Commerce Platform",
+  "description": "Full-stack e-commerce web application with product catalog, cart, checkout, order tracking, and role-based admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
